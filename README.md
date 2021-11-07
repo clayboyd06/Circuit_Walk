@@ -1,7 +1,7 @@
 # Circuit_Walk
 Circuit Optimization using random hill-climbing algorithm
 
-Uses package pyltspice from Nunobrum
+Uses package pyltspice from Nunobrum https://github.com/nunobrum/PyLTSpice/tree/master/PyLTSpice
 
 Creates a netlist from a .asc file created in LTSpice software and updates the netlist based on a error comparison between the previous best and the current
 circuit output.
